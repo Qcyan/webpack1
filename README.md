@@ -1,2 +1,1 @@
-# webpack1
-单文件搭建
+一个简单的webpack配置demo
